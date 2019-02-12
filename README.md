@@ -14,6 +14,6 @@ When the client sends a UDP packet with a hostname, the server looks up `hosts.t
 ### Output example
 ![](http://i67.tinypic.com/20u34uo.png)
 
-Tied with sister project [DNS-Client](https://github.com/Coursal/DNS-Server).
+Tied with sister project [DNS-Client](https://github.com/Coursal/DNS-Client).
 
 Tested on NetBeans 8.2.
